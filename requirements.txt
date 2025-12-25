@@ -1,0 +1,6 @@
+scikit-learn
+NLTK
+Joblib
+Streamlit
+Pandas
+NumPy
